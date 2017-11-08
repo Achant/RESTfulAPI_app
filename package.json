@@ -1,0 +1,33 @@
+{
+  "name": "puppies_app",
+  "version": "1.0.0",
+  "main": "queries.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express-generator": "^4.15.5",
+    "nodemon": "^1.12.1",
+    "pg-promise": "^5.9.7"
+  },
+  "devDependencies": {
+    "ajv": "^5.2.2",
+    "eslint": "^4.6.1",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Achant/RESTfulAPI_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Achant/RESTfulAPI_app/issues"
+  },
+  "homepage": "https://github.com/Achant/RESTfulAPI_app#readme",
+  "description": ""
+}
